@@ -1,0 +1,12 @@
+.background{
+    background-image:url(./pictures/backgroung\ image.jpg)!important;
+}
+.border{
+    border-color: #5fcac7 !important;
+    background-color: #5fcac7 !important;
+    border-radius: 15px;
+    color:white;
+}
+.color{
+    color: black!important;
+}
