@@ -1,3 +1,7 @@
+.navbar{
+    position:sticky !important;;
+        top:0px!important;
+}
 .background{
     background-image:url(./pictures/backgroung\ image.jpg)!important;
 }
@@ -9,4 +13,33 @@
 }
 .color{
     color: black!important;
+}
+.bgmagic{
+    /* background-image:url(./pictures/hero\ image.jpg); */
+    border-color: rgb(255, 255, 255)!important;
+}
+.backgroundcolor{
+    background-color: #5fcac7!important;
+}
+.backgroundcolor h1{
+    color: #ffffff !important;
+}
+.button{
+     border-color: #ffffff;
+     color: #ffffff;
+}
+.cup{
+    border-radius: 50px!important;
+}
+.review{
+    background-image:url(./pictures/bg\ review.jpg) ;
+}
+.picture img{
+    border-radius: 50px!important;
+}
+.back{
+    background-image: url(./pictures/INGREDIANTS.jpg);
+}
+.khudkiclass{
+
 }
