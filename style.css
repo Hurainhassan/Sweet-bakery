@@ -8,6 +8,9 @@
     border-radius: 15px;
     color:white;
 }
+.myside{
+    background-color: rgb(6, 6, 6);
+}
 .color{
     color: black!important;
 }
@@ -37,6 +40,38 @@
 .back{
     background-image: url(./pictures/INGREDIANTS.jpg);
 }
-.khudkiclass{
-
+.table{
+  height: 200px;
+  width: 700px;
+}
+.tablediv{
+    color: #5fcac7;
+    border-color:#5fcac7  ;
+    width: 300px;
+    height: 200px;
+    border-radius:20px;
+    background-color: blanchedalmond;
+    padding-top: 30px;
+}
+.sweetnews{
+    background-image:url(./pictures/chocolate.jpg);
+    color: #ffffff!important;
+    height: 800px;
+    padding-top: 300px!important;
+    background-color: black!important;
+    opacity:-2px;
+}
+.footer{
+    background-color: #2a2a2a;
+    color: #ffffff !important;
+}
+.colorsweet{
+    color: #ffffff !important;
+}
+.buttondiv{
+    border-radius: 50px;
+    border-color: rgb(236, 235, 235)!important;
+}
+.buttonborder{
+    border-color: #ffffff;
 }
